@@ -1,0 +1,15 @@
+{
+  "name": "legalappfinal",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite", // Ensure this line exists
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    // Your dependencies
+  },
+  "devDependencies": {
+    // Your dev dependencies
+  }
+}
